@@ -2,7 +2,7 @@
 ## Descripción:
 ApiTest es una aplicación en JAVA, desarrollada en Spring Boot, la cual tiene por objetivo consumir servicios de diferentes API fuente, y mostrar la información de forma resumida y agrupada, como si se hubieran consumido los servicios de forma independiente. Posee dos servicios, uno Rest y otro SOAP, y busca información de personas, actores, canciones, etc., enviando únicamente como parámetro un nombre.
 
-## Requisitos previos:
+## Requisitos:
 La aplicación para funcionar necesita de JAVA 11 y Maven, si además se desea modificar el código se hizo uso de Spring Tools 4 el cual se puede descargar del siguiente enlace:
 
 https://spring.io/tools
