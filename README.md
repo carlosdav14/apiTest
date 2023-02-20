@@ -28,7 +28,7 @@ Después se debe instalar Maven:
 ```sh
 $ sudo apt install maven
 ```
-### Compilación:
+## Compilación:
 Se puede compilar usando el comando:
 ```sh
 $ mvn package
